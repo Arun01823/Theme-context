@@ -1,0 +1,17 @@
+/* src/styles/lightTheme.css */
+body.light {
+  background-color: #ffffff; 
+  color: #000000;           
+}
+
+button.theme-switcher {
+  background-color: #000000; 
+  color: #ffffff;            
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+p {
+  color: #333333; 
+}

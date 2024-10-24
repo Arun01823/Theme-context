@@ -1,0 +1,17 @@
+/* src/styles/darkTheme.css */
+body.dark {
+  background-color: #333333; 
+  color: #ffffff;           
+}
+
+button.theme-switcher {
+  background-color: #ffffff; 
+  color: #000000;            
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+p {
+  color: #cccccc; 
+}
